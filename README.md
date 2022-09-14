@@ -1,13 +1,6 @@
-RC 2018/19; Grupo 28
-====================
+# Computer Networks
 
-
-Q. & A.
--------
-
-1. Q: How to run the programs?
-
-A: Just like a normal program. Example:
+## How to run
 
 ~~~~
 $ ./CS.py [-p a_port]
